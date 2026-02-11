@@ -64,3 +64,16 @@ Lecturer:
   - Alexia Gutiérrez Casado  (https://github.com/alexiagutierrezcasado)
 - **Project description**: Our project focuses on the development of an API that integrates and analyzes global data on deaths caused by risk factors, social protests, and mortality associated with pandemics across different countries. We examine the geographical distribution and temporal evolution of these phenomena, as well as their potential interconnections. The objective is to provide a unified and accessible data source that enables comparative analysis and helps understand how health risks, social unrest, and pandemics impact societies worldwide.
 - **Repository**: [gti-sos/SOS2526-10](https://github.com/gti-sos/SOS2526-10)
+
+
+
+## SOS2526-12
+
+- **Team**
+  - Lucca
+  - Javier
+  - Francisco de Paula Mediavilla Garcia (https://github.com/CMediavilla16)
+- **Project description**: Our project focuses on the development of an API to analyze global demographic dynamics, integrating data on birth/death rates, age-specific fertility, and population structure by age and sex. The objective is to provide a unified data source to examine temporal evolution and geographical trends in population growth and reproductive patterns across different countries.
+- **Repository**: [gti-sos/SOS2526-12](https://github.com/gti-sos/SOS2526-12)
+
+
