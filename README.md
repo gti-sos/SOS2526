@@ -12,7 +12,7 @@ Lecturer:
 - **Team**
   - Francisco Javier González Macías (https://github.com/GTT7265)
   - Amanda Liu Alcántara Perez (https://github.com/Liu11037)
-  - Pedro Mata García (https://github.com/badkidpmg)
+  - Pedro Mata García (https://github.com/pedmatgar)
 
 - **Project description**: Our project studies how the market of natural products work. We want to kwon how it works in a global scale. For this we are going to compare the stadistics of three products: Coffee, wool and spices.
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
@@ -179,6 +179,13 @@ Lecturer:
 - **Repository**: [gti-sos/SOS2526-24](https://github.com/gti-sos/SOS2526-24)
 
 
+## SOS2425-28
 
+- **Team**
+  - Jorge Dayoub Dayoub (https://github.com/)
+  - Alberto Jiménez Mateos (https://github.com/AlbertoJimenezMateos)
+  - Muhammad Zhillan Averous (https://github.com/zaverous)
+- **Project description**: Our sources of information are a jumble of unrelated data; our intention will be to find a connection between the three data sources.
+- **Repository**: [gti-sos/SOS2526-28](https://github.com/gti-sos/SOS2526-28)
 
 
