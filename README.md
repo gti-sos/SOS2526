@@ -206,3 +206,11 @@ Lecturer:
 - **Project description**: Our project analyzes the relationship between the productivity per worker in several countries and data about droughts and earthquakes
 around these countries.
 - **Repository**: [gti-sos/SOS2526-19](https://github.com/gti-sos/SOS2526-19)
+
+## SOS2526-29
+- **Team**
+  - Rufino Moreno Pacheco (https://github.com/rufmorpac)
+  - Luis Cortes Cobos (https://github.com/luicorcob)
+  - Albero Lirola Gomez (https://github.com/albertolg10)
+- **Project description**: Our project analyzes the correlation between natural disasters, number of inhabitants and stats related to wine.
+- **Repository**: [gti-sos/SOS2526-29](https://github.com/gti-sos/SOS2526-29)
