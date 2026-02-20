@@ -17,7 +17,7 @@ const data = [
 let regionBuscada = "Europe"; //Buscamos por región
 let campoNumerico = "impression"; // Buscamos el campo de impresiones de anuncios
 
-console.log(`Iniciando el cálculo para la región: ${regionBuscada}`);
+console.log(`Cálculo para la región: ${regionBuscada}`);
 
 //Usamos filter para quedarnos solo con las filas de la región geográfica buscada
 let datosFiltrados = data.filter(dato => dato.region === regionBuscada);
