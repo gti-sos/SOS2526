@@ -77,6 +77,8 @@ Lecturers:
 - **Project description**: This project analyzes the relationship between the number of electric vehicle (EV) charging points, electric vehicle sales, and electric vehicle production. The objective is to explore how the development of charging infrastructure influences EV adoption and whether production capacity aligns with market demand. Through data analysis and visualization, we aim to identify trends, correlations, and potential dependencies between infrastructure growth, consumer demand, and manufacturing output.
 - **Repository**: [gti-sos/SOS2526-16](https://github.com/gti-sos/SOS2526-16)
 - **Live URL**: https://sos2526-16.onrender.com 
+- **APIs**:
+  -Javier Prados Acosta: https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures
 
 
 ## SOS2526-17
