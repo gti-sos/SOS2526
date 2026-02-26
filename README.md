@@ -15,6 +15,7 @@ Lecturers:
   - Alexia Gutiérrez Casado  (https://github.com/alexiagutierrezcasado)
 - **Project description**: Our project focuses on the development of an API that integrates and analyzes global data on deaths caused by risk factors, social protests, and mortality associated with pandemics across different countries. We examine the geographical distribution and temporal evolution of these phenomena, as well as their potential interconnections. The objective is to provide a unified and accessible data source that enables comparative analysis and helps understand how health risks, social unrest, and pandemics impact societies worldwide.
 - **Repository**: [gti-sos/SOS2526-10](https://github.com/gti-sos/SOS2526-10)
+- **Live URL**: [SOS2526-10](https://sos2526-10.onrender.com/)
 
 
 ## SOS2526-11
@@ -35,6 +36,7 @@ Lecturers:
   - [Francisco de Paula Mediavilla Garcia](https://github.com/CMediavilla16)
 - **Project description**: Our project focuses on the development of an API to analyze global demographic dynamics, integrating data on birth/death rates, age-specific fertility, and population structure by age and sex. The objective is to provide a unified data source to examine temporal evolution and geographical trends in population growth and reproductive patterns across different countries.
 - **Repository**: [gti-sos/SOS2526-12](https://github.com/gti-sos/SOS2526-12)
+- **Live URL**: https://sos2526-12.onrender.com
 
 
 ## SOS2526-13
@@ -75,6 +77,9 @@ Lecturers:
   - Ignacio Javier Merino Martínez  (https://github.com/KadmonMaruki)
 - **Project description**: This project analyzes the relationship between the number of electric vehicle (EV) charging points, electric vehicle sales, and electric vehicle production. The objective is to explore how the development of charging infrastructure influences EV adoption and whether production capacity aligns with market demand. Through data analysis and visualization, we aim to identify trends, correlations, and potential dependencies between infrastructure growth, consumer demand, and manufacturing output.
 - **Repository**: [gti-sos/SOS2526-16](https://github.com/gti-sos/SOS2526-16)
+- **Live URL**: https://sos2526-16.onrender.com 
+- **APIs**:
+  -Javier Prados Acosta: https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures
 
 
 ## SOS2526-17
@@ -94,6 +99,7 @@ Lecturers:
   - Nazaret Villalba Delgado([nazaretvillalba22](https://github.com/nazaretvillalba22))
 - **Project description**: This project analyzes the correlation between cereal production, food supply utilization, and the affordability of healthy diets.
 - **Repository**: [gti-sos/SOS2526-18](https://github.com/gti-sos/SOS2526-18)
+- **URI**:(https://sos2526-18.onrender.com/)
 
 
 ## SOS2425-19
@@ -103,6 +109,8 @@ Lecturers:
   - Javier Morales Jiménez (https://github.com/JaviMJ2)
 - **Project description**: Our project analyzes the relationship between the productivity per worker in several countries and data about droughts and earthquakes around these countries.
 - **Repository**: [gti-sos/SOS2526-19](https://github.com/gti-sos/SOS2526-19)
+**URI**
+  Render URL: https://sos2526-19.onrender.com
 
 
 ## SOS2526-20
@@ -123,6 +131,7 @@ Lecturers:
   - María Torres Chacón (https://github.com/MariaTorresChacon)
 - **Project description**: Our project studies how people’s religious beliefs are related to the number of deaths from AIDS and the cases of cholera. We want to see if religion has an impact on how these diseases spread and how communities respond to them.
 - **Repository**: [gti-sos/SOS2526-21](https://github.com/gti-sos/SOS2526-21)
+- **URI**:(https://sos2526-21.onrender.com)
 
 
 ## SOS2526-22
@@ -143,6 +152,7 @@ Lecturers:
   - María	Rodríguez	Romero (https://github.com/mariarguezro)
 - **Project description**: Our research focuses on analyzing the complex relationship between Google Ads performance, e-Commerce sales flow, and their impact on stock market index fluctuations. Our objective is identify the patterns that drive digital marketplace liquidity and influence investor sentiment.
 - **Repository**: [gti-sos/SOS2526-23](https://github.com/gti-sos/SOS2526-23)
+- **Live URL**: [SOS2526-23](https://sos2526-23.onrender.com)
 
 
 ## SOS2526-24
@@ -184,7 +194,7 @@ Lecturers:
   - Adrián Pérez Sánchez  (https://github.com/adrianperez17)
 - **Project description**: Our project analyzes global hydraulic infrastructure (dams, reservoirs, and related works) to study its geographical distribution, temporal evolution, and primary use (e.g., hydroelectric generation, irrigation, water supply, and flood control). The goal is to understand how this infrastructure has expanded and specialized across different regions and the structural characteristics (dam height, storage capacity, reservoir area, installed power, etc.) associated with each use.
 - **Repository**: [gti-sos/SOS2526-27](https://github.com/gti-sos/SOS2526-27)
-
+- **Live URL**: (https://sos2526-27.onrender.com/)
 
 ## SOS2526-28
 
