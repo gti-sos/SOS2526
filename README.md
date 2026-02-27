@@ -123,6 +123,7 @@ Lecturers:
   - Pedro Mata García (https://github.com/pedmatgar)
 - **Project description**: Our project studies how the market of natural products work. We want to kwon how it works in a global scale. For this we are going to compare the stadistics of three products: Coffee, wool and spices.
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
+- **Render URI** [Render_Uri](https://sos2526-20.onrender.com/)
 
 
 ## SOS2526-21
