@@ -30,6 +30,7 @@ Lecturers:
 - **APIs**:
   - Miguel Ridao Gallardo : https://sos2526-11.onrender.com/api/v1/alcohol-consumptions
   - Tomás Gutiérrez García: https://sos2526-11.onrender.com/api/v1/literacy-rates
+  - José Fernández Montero: https://sos2526-11.onrender.com/api/v1/road-fatalities
 
 ## SOS2526-12
 
