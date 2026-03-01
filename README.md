@@ -223,6 +223,7 @@ Lecturers:
   - Albero Lirola Gomez (https://github.com/albertolg10)
 - **Project description**: Our project analyzes the correlation between natural disasters, number of inhabitants and stats related to wine.
 - **Repository**: [gti-sos/SOS2526-29](https://github.com/gti-sos/SOS2526-29)
+- **Live URL**: https://sos2526-29.onrender.com/
 
 
 ## SOS2526-30
