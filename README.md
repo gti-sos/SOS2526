@@ -28,6 +28,7 @@ Lecturers:
 - **Repository**: [gti-sos/SOS2526-11](https://github.com/gti-sos/SOS2526-11)
 - **Live URL:** https://sos2526-11.onrender.com
 - **APIs**:
+  - Miguel Ridao Gallardo : https://sos2526-11.onrender.com/api/v1/alcohol-consumptions
   - Tomás Gutiérrez García: https://sos2526-11.onrender.com/api/v1/literacy-rates
 
 ## SOS2526-12
