@@ -50,6 +50,11 @@ Lecturers:
    - Pablo Moraleda Álvarez(https://github.com/PabloMoraledAlvarez)
 - **Project description**: Our project analyzes the relationship between military expenses, arms export and military personnel.
 - **Repository**:[gti-sos/SOS2526-13](https://github.com/gti-sos/SOS2526-13)
+- **Live URL**:https://sos2526-13.onrender.com/
+- **APIS**:
+-  Camila España Vildoso - military stats https://sos2526-13.onrender.com/api/v1/military-stats
+- Pablo Moraleda Alvarez https://sos2526-13.onrender.com/api/v1/conflict-stats
+- Claudia Páez Sollo https://sos2526-13.onrender.com/api/v1/exportations-stats
 
 
 ## SOS2526-14
