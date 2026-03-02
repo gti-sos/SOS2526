@@ -148,6 +148,10 @@ Lecturers:
 - **Project description**: Our project studies how people’s religious beliefs are related to the number of deaths from AIDS and the cases of cholera. We want to see if religion has an impact on how these diseases spread and how communities respond to them.
 - **Repository**: [gti-sos/SOS2526-21](https://github.com/gti-sos/SOS2526-21)
 - **URI**:(https://sos2526-21.onrender.com)
+- **API**: 
+  - Iván Arriaza Domínguez (https://sos2526-21.onrender.com/api/v1/religious-believes-stats)
+  - Daniel de la Rosa Fernández (https://sos2526-21.onrender.com/api/v1//aids-deaths-stats)
+  - María Torres Chacón (https://sos2526-21.onrender.com/api/v1/cholera-stats)
 
 
 ## SOS2526-22
