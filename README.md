@@ -186,6 +186,8 @@ Lecturers:
 - **Live URL**: https://sos2526-24.onrender.com/
 - **APIs**: 
   - María Jesús Jiménez-Espada Pallarés (https://sos2526-24.onrender.com/api/v1/average-monthly-wages)
+  - Isaac Rodríguez Godino (https://sos2526-24.onrender.com/api/v1/international-construccion-costs)
+  - Elena Bejarano Periñán ( https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure )
 
 
 
