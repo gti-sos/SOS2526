@@ -139,6 +139,10 @@ Lecturers:
 - **Project description**: Our project studies how the market of natural products work. We want to kwon how it works in a global scale. For this we are going to compare the stadistics of three products: Coffee, wool and spices.
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
 - **Render URI** [Render_Uri](https://sos2526-20.onrender.com/)
+- **API**: 
+  - Francisco Javier González Macías: https://sos2526-20.onrender.com/api/v1/wool-stats/
+  - Amanda Liu Alcántara Pérez: https://sos2526-20.onrender.com/api/v1/spice-stats/
+  - Pedro Mata García: https://sos2526-20.onrender.com/api/v1/coffee-stats/
 
 
 ## SOS2526-21
