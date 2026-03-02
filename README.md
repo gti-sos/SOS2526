@@ -15,6 +15,7 @@ Lecturers:
   - Alexia Gutiérrez Casado  (https://github.com/alexiagutierrezcasado)
 - **Project description**: Our project focuses on the development of an API that integrates and analyzes global data on deaths caused by risk factors, social protests, and mortality associated with pandemics across different countries. We examine the geographical distribution and temporal evolution of these phenomena, as well as their potential interconnections. The objective is to provide a unified and accessible data source that enables comparative analysis and helps understand how health risks, social unrest, and pandemics impact societies worldwide.
 - **Repository**: [gti-sos/SOS2526-10](https://github.com/gti-sos/SOS2526-10)
+- **Live URL**: [SOS2526-10](https://sos2526-10.onrender.com/)
 
 
 ## SOS2526-11
@@ -25,7 +26,11 @@ Lecturers:
   - [José Fernández Montero](https://github.com/josfermon)
 - **Project description**: Our project analyzes global traffic accident data to study the relationship between fatality rates, alcohol consumption, and literacy levels, determining how these variables influence road safety outcomes across different world regions.
 - **Repository**: [gti-sos/SOS2526-11](https://github.com/gti-sos/SOS2526-11)
-
+- **Live URL:** https://sos2526-11.onrender.com
+- **APIs**:
+  - Miguel Ridao Gallardo : https://sos2526-11.onrender.com/api/v1/alcohol-consumptions
+  - Tomás Gutiérrez García: https://sos2526-11.onrender.com/api/v1/literacy-rates
+  - José Fernández Montero: https://sos2526-11.onrender.com/api/v1/road-fatalities
 
 ## SOS2526-12
 
@@ -56,6 +61,7 @@ Lecturers:
   - --
 - **Project description**: This project examines the relationship between natural objects entering Earth’s atmosphere and the technological footprint humans send into space. The objective is to compare the historical mass of recovered meteorites against the mass of active satellites and current launch costs. We aim to determine if the human "footprint" in outer space is now outpacing natural phenomena in magnitude, while analyzing the global geographic distribution of these events.
 - **Repository**: [gti-sos/SOS2526-14](https://github.com/gti-sos/SOS2526-14)
+- Live URL: https://sos2526-14.onrender.com/
 
 
 ## SOS2526-15
@@ -66,6 +72,7 @@ Lecturers:
   - Javier Arroyo (https://github.com/Javieramma)
 - **Project description**: "Our project analyzes the correlation between a country's happiness index and its population density and minimum wage. We study how wages and the possibility of encountering other people, which we measure using density, can affect a nation's happiness. The goal is to understand how happiness varies based on socioeconomic factors and, thanks to this data, nations can establish strategies to improve the happiness of their inhabitants."
 - **Repository**: [gti-sos/SOS2526-15](https://github.com/gti-sos/SOS2526-15)
+- **Live URL**: [SOS2526-15](https://sos2526-15.onrender.com)
 
 
 ## SOS2526-16
@@ -76,6 +83,9 @@ Lecturers:
   - Ignacio Javier Merino Martínez  (https://github.com/KadmonMaruki)
 - **Project description**: This project analyzes the relationship between the number of electric vehicle (EV) charging points, electric vehicle sales, and electric vehicle production. The objective is to explore how the development of charging infrastructure influences EV adoption and whether production capacity aligns with market demand. Through data analysis and visualization, we aim to identify trends, correlations, and potential dependencies between infrastructure growth, consumer demand, and manufacturing output.
 - **Repository**: [gti-sos/SOS2526-16](https://github.com/gti-sos/SOS2526-16)
+- **Live URL**: https://sos2526-16.onrender.com 
+- **APIs**:
+  -Javier Prados Acosta: https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures
 
 
 ## SOS2526-17
@@ -85,6 +95,7 @@ Lecturers:
   - Mario Ramírez García (https://github.com/marioraga29)
 - **Project description**: Our project is going to analyse the impact of water and renewable energy on agricultural productivity in the countries
 - **Repository**: [gti-sos/SOS2526-17](https://github.com/gti-sos/SOS2526-17)
+- **Deployment**: [https://sos2526-17.onrender.com](https://sos2526-17.onrender.com)
 
 
 ## SOS2526-18
@@ -105,6 +116,8 @@ Lecturers:
   - Javier Morales Jiménez (https://github.com/JaviMJ2)
 - **Project description**: Our project analyzes the relationship between the productivity per worker in several countries and data about droughts and earthquakes around these countries.
 - **Repository**: [gti-sos/SOS2526-19](https://github.com/gti-sos/SOS2526-19)
+**URI**
+  Render URL: https://sos2526-19.onrender.com
 
 
 ## SOS2526-20
@@ -115,6 +128,7 @@ Lecturers:
   - Pedro Mata García (https://github.com/pedmatgar)
 - **Project description**: Our project studies how the market of natural products work. We want to kwon how it works in a global scale. For this we are going to compare the stadistics of three products: Coffee, wool and spices.
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
+- **Render URI** [Render_Uri](https://sos2526-20.onrender.com/)
 
 
 ## SOS2526-21
@@ -136,7 +150,7 @@ Lecturers:
   - Julio Morales Vela (https://github.com/Juliomv02)
 - **Project description**: Our sources of information are aimed at analyzing the relationship that exists between the consumption of substances that deplete the ozone layer, the impact of climate change on agriculture and CO2 emissions in the agri-food sector.
 - **Repository**: [gti-sos/SOS2526-22](https://github.com/gti-sos/SOS2526-22)
-
+- **Live URL**: [SOS2526-22](https://sos2526-22.onrender.com/)
 
 ## SOS2526-23
 
@@ -146,6 +160,7 @@ Lecturers:
   - María	Rodríguez	Romero (https://github.com/mariarguezro)
 - **Project description**: Our research focuses on analyzing the complex relationship between Google Ads performance, e-Commerce sales flow, and their impact on stock market index fluctuations. Our objective is identify the patterns that drive digital marketplace liquidity and influence investor sentiment.
 - **Repository**: [gti-sos/SOS2526-23](https://github.com/gti-sos/SOS2526-23)
+- **Live URL**: [SOS2526-23](https://sos2526-23.onrender.com)
 
 
 ## SOS2526-24
@@ -156,6 +171,10 @@ Lecturers:
   - María Jesús Jiménez-Espada Pallarés (https://github.com/mariaajesuus)
 - **Project description**: Our project integrates global datasets on construction costs, household spending on leisure and culture, and average monthly wages. We analyze the economic impact of rising construction prices between 2020/21 and 2024, exploring the correlation between cost increases, purchasing power, and shifts in leisure expenditure to identify global trends and cross-country comparisons.
 - **Repository**: [gti-sos/SOS2526-24](https://github.com/gti-sos/SOS2526-24)
+- **Live URL**: https://sos2526-24.onrender.com/
+- **APIs**: 
+  - María Jesús Jiménez-Espada Pallarés (https://sos2526-24.onrender.com/api/v1/average-monthly-wages)
+
 
 
 ## SOS2526-25
@@ -177,6 +196,7 @@ Lecturers:
   - Sergio Díaz Vázquez  (https://github.com/SergioDiazVazquez)
 - **Project description**: "Our project analyzes the correlation between the competitive performance of men's senior national football teams and the quality of life as measured by the Human Development Index (HDI). We study the geographical distribution of football success, its temporal evolution, and its relationship with socioeconomic indicators. The goal is to understand how sporting excellence has expanded or concentrated across different regions and how it is associated with each development tier."
 - **Repository**: [gti-sos/SOS2526-26](https://github.com/gti-sos/SOS2526-26)
+- **Live URL**: https://sos2526-26.onrender.com/
 
 
 ## SOS2526-27
@@ -197,6 +217,7 @@ Lecturers:
   - Muhammad Zhillan Averous (https://github.com/zaverous)
 - **Project description**: Our sources of information are a jumble of unrelated data; our intention will be to find a connection between the three data sources.
 - **Repository**: [gti-sos/SOS2526-28](https://github.com/gti-sos/SOS2526-28)
+- **URL Render**: [gti-sos/SOS2526-28 Render](https://sos2526-28.onrender.com)
 
 
 ## SOS2526-29
@@ -206,6 +227,7 @@ Lecturers:
   - Albero Lirola Gomez (https://github.com/albertolg10)
 - **Project description**: Our project analyzes the correlation between natural disasters, number of inhabitants and stats related to wine.
 - **Repository**: [gti-sos/SOS2526-29](https://github.com/gti-sos/SOS2526-29)
+- **Live URL**: https://sos2526-29.onrender.com/
 
 
 ## SOS2526-30
@@ -217,4 +239,5 @@ Lecturers:
   - Francisco Manuel García Patino (https://github.com/PaGarPa)
 - **Project description**: Our sources of information are geared towards analysing the relationship between the growth of the esports industry, the earnings of esports players, cheating players in esports, and statistics on Olympic athletes.
 - **Repository**: [gti-sos/SOS2526-30](https://github.com/gti-sos/SOS2526-30)
+- **Live URL**: (https://sos2526-30.onrender.com/)
 
