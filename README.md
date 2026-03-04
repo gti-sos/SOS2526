@@ -67,6 +67,8 @@ Lecturers:
 - **Project description**: This project examines the relationship between natural objects entering Earth’s atmosphere and the technological footprint humans send into space. The objective is to compare the historical mass of recovered meteorites against the mass of active satellites and current launch costs. We aim to determine if the human "footprint" in outer space is now outpacing natural phenomena in magnitude, while analyzing the global geographic distribution of these events.
 - **Repository**: [gti-sos/SOS2526-14](https://github.com/gti-sos/SOS2526-14)
 - Live URL: https://sos2526-14.onrender.com/
+- Api:
+- Jaime García Algarra: https://sos2526-14.onrender.com/api/v1/active-satellites
 
 
 ## SOS2526-15
@@ -137,6 +139,10 @@ Lecturers:
 - **Project description**: Our project studies how the market of natural products work. We want to kwon how it works in a global scale. For this we are going to compare the stadistics of three products: Coffee, wool and spices.
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
 - **Render URI** [Render_Uri](https://sos2526-20.onrender.com/)
+- **API**: 
+  - Francisco Javier González Macías: https://sos2526-20.onrender.com/api/v1/wool-stats/
+  - Amanda Liu Alcántara Pérez: https://sos2526-20.onrender.com/api/v1/spice-stats/
+  - Pedro Mata García: https://sos2526-20.onrender.com/api/v1/coffee-stats/
 
 
 ## SOS2526-21
@@ -211,6 +217,10 @@ Lecturers:
 - **Project description**: "Our project analyzes the correlation between the competitive performance of men's senior national football teams and the quality of life as measured by the Human Development Index (HDI). We study the geographical distribution of football success, its temporal evolution, and its relationship with socioeconomic indicators. The goal is to understand how sporting excellence has expanded or concentrated across different regions and how it is associated with each development tier."
 - **Repository**: [gti-sos/SOS2526-26](https://github.com/gti-sos/SOS2526-26)
 - **Live URL**: https://sos2526-26.onrender.com/
+- **APIs**: 
+  - Moises Guillermo Godoy Nava (https://sos2526-26.onrender.com/api/v1/national-team-rankings-per-years)
+  - Sergio Díaz Vazquez (https://sos2526-26.onrender.com/api/v1/countries-idh-per-years)
+  - Ricardo Fernandez ( https://sos2526-26.onrender.com/api/v1/fifa-squad-value-per-years )
 
 
 ## SOS2526-27
