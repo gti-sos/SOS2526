@@ -26,11 +26,11 @@ Lecturers:
   - [José Fernández Montero](https://github.com/josfermon)
 - **Project description**: Our project analyzes global traffic accident data to study the relationship between fatality rates, alcohol consumption, and literacy levels, determining how these variables influence road safety outcomes across different world regions.
 - **Repository**: [gti-sos/SOS2526-11](https://github.com/gti-sos/SOS2526-11)
-- **Live URL:** https://sos2526-11.onrender.com
+- **URL:** https://sos2526-11.onrender.com
 - **APIs**:
-  - Miguel Ridao Gallardo : https://sos2526-11.onrender.com/api/v1/alcohol-consumptions-per-capita
-  - Tomás Gutiérrez García: https://sos2526-11.onrender.com/api/v1/literacy-rates
-  - José Fernández Montero: https://sos2526-11.onrender.com/api/v1/road-fatalities
+  - https://sos2526-11.onrender.com/api/v1/alcohol-consumptions-per-capita/docs (developed by Miguel Ridao Gallardo)
+  - https://sos2526-11.onrender.com/api/v1/literacy-rates (developed by Tomás Gutiérrez García)
+  - https://sos2526-11.onrender.com/api/v1/road-fatalities (developed by José Fernández Montero)
 
 ## SOS2526-12
 
