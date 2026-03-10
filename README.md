@@ -274,4 +274,4 @@ Lecturers:
     - http://sos2526-30.onrender.com/api/v1/esportsgrowth-stats/docs (developed by David Real Pérez)
     - http://sos2526-30.onrender.com/api/v1/esportsearnings-stats/docs (developed by Mario Ramos Tuñón)
     - http://sos2526-30.onrender.com/api/v1/cheaters-stats/docs (developed by Francisco Manuel Gracía Patino)
-    - http://sos2526-30.onrender.com/api/v1/olympics-athlete-events/docs (developed by David Real Pérez)
+    - http://sos2526-30.onrender.com/api/v1/olympics-athlete-events/docs (developed by Gonzalo García Gómez)
