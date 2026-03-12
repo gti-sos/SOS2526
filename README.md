@@ -13,10 +13,14 @@ Lecturers:
   - Santiago Muñoz Jiménez (https://github.com/123smj123)
   - Onésimo Morillo Vecino (https://github.com/onesimomorillo)
   - Alexia Gutiérrez Casado  (https://github.com/alexiagutierrezcasado)
-- **Project description**: Our project focuses on the development of an API that integrates and analyzes global data on deaths caused by risk factors, social protests, and mortality associated with pandemics across different countries. We examine the geographical distribution and temporal evolution of these phenomena, as well as their potential interconnections. The objective is to provide a unified and accessible data source that enables comparative analysis and helps understand how health risks, social unrest, and pandemics impact societies worldwide.
+- **Project description**: Our project focuses on the analysis of global health data through the development of an API that integrates information on deaths caused by risk factors across different countries, as well as data on pandemics and pandemic-related mortality. We examine the geographical and temporal distribution of these health outcomes and explore their relationship with global patterns of disease spread and public health impact. The objective is to provide a unified and accessible data source that facilitates the understanding of how risk factors and pandemics have affected populations worldwide over time.
 - **Repository**: [gti-sos/SOS2526-10](https://github.com/gti-sos/SOS2526-10)
 - **Live URL**: [SOS2526-10](https://sos2526-10.onrender.com/)
 
+- **APIs:**
+  - https://sos2526-10.onrender.com/deaths-by-risk-factors/docs (Developed by Santiago Muñoz)
+  - https://sos2526-10.onrender.com/protests (Developed by Onésimo Morillo)
+  - https://sos2526-10.onrender.com/pandemics (Developed by Alexia Gutiérrez)
 
 ## SOS2526-11
 
