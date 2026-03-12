@@ -41,6 +41,10 @@ Lecturers:
 - **Project description**: Our project focuses on the development of an API to analyze global demographic dynamics, integrating data on birth/death rates, age-specific fertility, and population structure by age and sex. The objective is to provide a unified data source to examine temporal evolution and geographical trends in population growth and reproductive patterns across different countries.
 - **Repository**: [gti-sos/SOS2526-12](https://github.com/gti-sos/SOS2526-12)
 - **Live URL**: https://sos2526-12.onrender.com
+- **APIs**:
+  - https://sos2526-12.onrender.com/api/v1/age-specific-fertility-rates/ (developed by Francisco de Paula Mediavilla García)
+  - (developed by Lucca Pereira)
+  - (developed by Javier Jiménez)
 
 
 ## SOS2526-13
