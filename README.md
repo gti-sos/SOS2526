@@ -74,10 +74,11 @@ Lecturers:
   - --
 - **Project description**: This project examines the relationship between natural objects entering Earth’s atmosphere and the technological footprint humans send into space. The objective is to compare the historical mass of recovered meteorites against the mass of active satellites and current launch costs. We aim to determine if the human "footprint" in outer space is now outpacing natural phenomena in magnitude, while analyzing the global geographic distribution of these events.
 - **Repository**: [gti-sos/SOS2526-14](https://github.com/gti-sos/SOS2526-14)
-- Live URL: https://sos2526-14.onrender.com/
-
-APIs:
-- http://sos2526-14.onrender.com/api/v1/active-satellites/docs (developed by Jaime García Algarra)
+- **Live URL**: [SOS2526-10](https://sos2526-14.onrender.com/)
+- **APIs**:
+  - http://sos2526-14.onrender.com/api/v1/active-satellites/docs (developed by Jaime García Algarra)
+  - http://sos2526-14.onrender.com/api/v1/meteorite-landings/docs (developed by Jeremías J. Pluas Charcopa)
+  - (developed by Fernando Reguera Bueno)
 
 
 ## SOS2526-15
