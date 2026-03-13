@@ -102,10 +102,14 @@ Lecturers:
 - **Repository**: [gti-sos/SOS2526-16](https://github.com/gti-sos/SOS2526-16)
 - **Live URL**: https://sos2526-16.onrender.com 
 - **APIs**:
-  -Javier Prados Acosta:https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures
-  -Adrián Rico Hernández:https://sos2526-16.onrender.com/api/v1/global-ev-stock-volumes
-  -Ignacio Javier Merino Martínez:https://sos2526-16.onrender.com/api/v1/global-ev-sales
-
+ - Javier Prados Acosta:https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures
+ - Adrián Rico Hernández:https://sos2526-16.onrender.com/api/v1/global-ev-stock-volumes
+ - Ignacio Javier Merino Martínez:https://sos2526-16.onrender.com/api/v1/global-ev-sales
+  
+- **Documentation**
+ - https://sos2526-16.onrender.com/api/v1/global-ev-charging-infrastructures/docs (Developed by Javier Prados Acosta)
+ - https://sos2526-16.onrender.com/api/v1/global-ev-stock-volumes/docs (Developed by Adrián Rico Hernández)
+ - https://sos2526-16.onrender.com/api/v1/global-ev-sales/docs (Developed by Ignacio Javier Merino Martínez)
 
 
 ## SOS2526-17
