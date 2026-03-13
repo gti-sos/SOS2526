@@ -206,10 +206,9 @@ APIs:
 - **Repository**: [gti-sos/SOS2526-24](https://github.com/gti-sos/SOS2526-24)
 - **Live URL**: https://sos2526-24.onrender.com/
 - **APIs**: 
-  - María Jesús Jiménez-Espada Pallarés (https://sos2526-24.onrender.com/api/v1/average-monthly-wages)
-  - Isaac Rodríguez Godino (https://sos2526-24.onrender.com/api/v1/international-construccion-costs)
-  - Elena Bejarano Periñán ( https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure )
-
+  - https://sos2526-24.onrender.com/api/v1/average-monthly-wages (developed by María Jesús Jiménez-Espada Pallarés)
+  - https://sos2526-24.onrender.com/api/v1/international-construccion-costs (developed by Isaac Rodríguez Godino)
+  - https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure (developed by Elena Bejarano Periñán)
 
 
 ## SOS2526-25
