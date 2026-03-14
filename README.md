@@ -60,9 +60,9 @@ Lecturers:
 - **Repository**:[gti-sos/SOS2526-13](https://github.com/gti-sos/SOS2526-13)
 - **Live URL**:https://sos2526-13.onrender.com/
 - **APIS**:
--  Camila España Vildoso - military stats https://sos2526-13.onrender.com/api/v1/military-stats
-- Pablo Moraleda Alvarez https://sos2526-13.onrender.com/api/v1/conflict-stats
-- Claudia Páez Sollo https://sos2526-13.onrender.com/api/v1/exportations-stats
+- https://sos2526-13.onrender.com/api/v1/military-stats/docs (developed by Camila España Vildoso)
+- https://sos2526-13.onrender.com/api/v1/conflict-stats/docs (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v1/exportations-stats/docs (developed by Claudia Páez Sollo)
 
 
 ## SOS2526-14
