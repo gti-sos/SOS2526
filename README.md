@@ -123,7 +123,10 @@ Lecturers:
 - **Project description**: Our project is going to analyse the impact of water and renewable energy on agricultural productivity in the countries
 - **Repository**: [gti-sos/SOS2526-17](https://github.com/gti-sos/SOS2526-17)
 - **Deployment**: [https://sos2526-17.onrender.com](https://sos2526-17.onrender.com)
-
+- **APIs**
+  - [Renewable Energy Consumptions](https://sos2526-17.onrender.com/api/v1/renewable-energy-consumptions)
+  - [Agriculture Land](https://sos2526-17.onrender.com/api/v1/agriculture-land)
+  - [Water Productivities](https://sos2526-17.onrender.com/api/v1/water-productivities)
 
 ## SOS2526-18
 
