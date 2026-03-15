@@ -19,10 +19,10 @@ Lecturers:
 - **Live URL**: [SOS2526-10](https://sos2526-10.onrender.com/)
 
 - **APIs:**
-  - https://sos2526-10.onrender.com/deaths-by-risk-factors/docs (Developed by Santiago Muñoz)
-  - https://sos2526-10.onrender.com/protests/docs (Developed by Onésimo Morillo)
-  - https://sos2526-10.onrender.com/pandemics/docs (Developed by Alexia Gutiérrez)
-  - https://sos2526-10.onrender.com/child-malnutritions/docs (Developed by Rosmery Marculli)
+  - https://sos2526-10.onrender.com/api/v1/deaths-by-risk-factors/docs (Developed by Santiago Muñoz)
+  - https://sos2526-10.onrender.com/api/v1/protests/docs (Developed by Onésimo Morillo)
+  - https://sos2526-10.onrender.com/api/v1/pandemics/docs (Developed by Alexia Gutiérrez)
+  - https://sos2526-10.onrender.com/api/v1/child-malnutritions/docs (Developed by Rosmery Marculli)
 
 
 ## SOS2526-11
