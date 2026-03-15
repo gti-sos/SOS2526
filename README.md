@@ -136,6 +136,7 @@ Lecturers:
 - **URI**:(https://sos2526-18.onrender.com/)
 - **APIs:**
   - [http://sos2526-18.onrender.com/api/v1/cereal-productions/docs](http://sos2526-18.onrender.com/api/v1/cereal-productions/docs) (developed by Jose Luis Alcón Del Villar)
+  - [https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs](https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs) (developed by Nazaret Villalba Delgado)
 
 
 ## SOS2425-19
