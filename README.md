@@ -218,9 +218,9 @@ Lecturers:
 - **Repository**: [gti-sos/SOS2526-26](https://github.com/gti-sos/SOS2526-26)
 - **Live URL**: https://sos2526-26.onrender.com/
 - **APIs**: 
-  - Moises Guillermo Godoy Nava (https://sos2526-26.onrender.com/api/v1/national-team-rankings-per-years)
-  - Sergio Díaz Vazquez (https://sos2526-26.onrender.com/api/v1/countries-idh-per-years)
-  - Ricardo Fernandez ( https://sos2526-26.onrender.com/api/v1/fifa-squad-value-per-years )
+  - Moises Guillermo Godoy Nava (https://sos2526-26.onrender.com/api/v1/national-team-rankings-per-years/docs)
+  - Sergio Díaz Vazquez (https://sos2526-26.onrender.com/api/v1/countries-idh-per-years/docs)
+  - Ricardo Fernandez ( https://sos2526-26.onrender.com/api/v1/fifa-squad-value-per-years/docs)
 
 
 ## SOS2526-27
