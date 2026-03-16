@@ -50,8 +50,8 @@ Lecturers:
 - **Live URL**: https://sos2526-12.onrender.com
 - **APIs**:
   - https://sos2526-12.onrender.com/api/v1/age-specific-fertility-rates/ (developed by Francisco de Paula Mediavilla García)
-  - https://sos2526-12.onrender.com/api/v1/birth-death-growth-rates/docs(developed by Lucca Pereira)
-  - https://sos2526-12.onrender.com/api/v1/mid-population-ages/(developed by Javier Jiménez)
+  - https://sos2526-12.onrender.com/api/v1/birth-death-growth-rates/ (developed by Lucca Pereira)
+  - https://sos2526-12.onrender.com/api/v1/mid-population-ages/ (developed by Javier Jiménez)
 
 
 ## SOS2526-13
