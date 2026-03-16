@@ -159,13 +159,7 @@ Lecturers:
 
 - **URL**: https://sos2526-19.onrender.com
 
-- **APIs**
-  - [/about](https://sos2526-19.onrender.com/about)
-
-  - [Pablo](https://sos2526-19.onrender.com/api/v1/drought-stats)
-  - [Raúl](https://sos2526-19.onrender.com/api/v1/workers-productivity)
-  - [Javier](https://sos2526-19.onrender.com/api/v1/earthquakes)
-  
+- **APIs** 
   - https://sos2526-19.onrender.com/api/v1/drought-stats/docs (developed by Pablo Rodríguez Armesto)
   - https://sos2526-19.onrender.com/api/v1/workers-productivity/docs (developed by Raúl de los Reyes Benítez)
   - https://sos2526-19.onrender.com/api/v1/earthquakes/docs (developed by Javier Morales Jiménez)
