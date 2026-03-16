@@ -50,8 +50,8 @@ Lecturers:
 - **Live URL**: https://sos2526-12.onrender.com
 - **APIs**:
   - https://sos2526-12.onrender.com/api/v1/age-specific-fertility-rates/ (developed by Francisco de Paula Mediavilla García)
-  - (developed by Lucca Pereira)
-  - (developed by Javier Jiménez)
+  - https://sos2526-12.onrender.com/api/v1/birth-death-growth-rates/ (developed by Lucca Pereira)
+  - https://sos2526-12.onrender.com/api/v1/mid-population-ages/ (developed by Javier Jiménez)
 
 
 ## SOS2526-13
@@ -249,7 +249,7 @@ Lecturers:
 
 - **Team**
   - Juan Luis Rodríguez Artiaga (https://github.com/juarodart) API: https://sos2526-25.onrender.com/api/v1/social-drinking-behaviors
-  - Aimar García Borrego (https://github.com/aimargarcia) API: https://sos2526-25.onrender.com/api/v1/arrivals
+  - Aimar García Borrego (https://github.com/aimargarcia) API: https://sos2526-25.onrender.com/api/v1/international-tourist-arrivals
   - Pablo Seco Amores (https://github.com/CJY2851) API: https://sos2526-25.onrender.com/api/v1/average-annual-temperatures 
 - **Project description**: Our proyeect is going to be an analyze about the consum of alcohol in different countries, the temperatures and the tourism.
 - **Repository**: [gti-sos/SOS2526-25](https://github.com/gti-sos/SOS2526-25)
@@ -257,7 +257,7 @@ Lecturers:
 - **APIs**: <br>
     - http://sos2526-25.onrender.com/api/v1/social-drinking-behaviors/docs (developed by Juan Luis Rodríguez Artiaga) <br>
     - http://sos2526-25.onrender.com/api/v1/average-annual-temperatures/docs (developed by Pablo Seco Amores) <br>
-    - http://sos2526-25.onrender.com/api/v1/arrivals/docs (developed by Aimar García Borrego) <br>
+    - http://sos2526-25.onrender.com/api/v1/international-tourist-arrivals/docs (developed by Aimar García Borrego) <br>
 
 
 
