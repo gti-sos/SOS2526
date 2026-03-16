@@ -253,7 +253,7 @@ Lecturers:
   - Pablo Seco Amores (https://github.com/CJY2851) API: https://sos2526-25.onrender.com/api/v1/average-annual-temperatures 
 - **Project description**: Our proyeect is going to be an analyze about the consum of alcohol in different countries, the temperatures and the tourism.
 - **Repository**: [gti-sos/SOS2526-25](https://github.com/gti-sos/SOS2526-25)
-- **Render**: https://sos2526-25.onrender.com/
+- **Live URL**: https://sos2526-25.onrender.com/
 - **APIs**: <br>
     - http://sos2526-25.onrender.com/api/v1/social-drinking-behaviors/docs (developed by Juan Luis Rodríguez Artiaga) <br>
     - http://sos2526-25.onrender.com/api/v1/average-annual-temperatures/docs (developed by Pablo Seco Amores) <br>
