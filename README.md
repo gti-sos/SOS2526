@@ -94,9 +94,9 @@ Lecturers:
 - **Repository**: [gti-sos/SOS2526-15](https://github.com/gti-sos/SOS2526-15)
 - **Live URL**: [SOS2526-15](https://sos2526-15.onrender.com)
 - **APIs:**:
-  - https://sos2526-15.onrender.com/api/v1/population-densities (developed by Adrián López Gamboa)
-  - https://sos2526-15.onrender.com/api/v1/minimum-interprofessional-wages (developed by Samanta Montoya Baena)
-  - https://sos2526-15.onrender.com/api/v1/happiness-indices (developed by Javier Arroyo)
+  - https://sos2526-15.onrender.com/api/v1/population-densities/docs (developed by Adrián López Gamboa)
+  - https://sos2526-15.onrender.com/api/v1/minimum-interprofessional-wages/docs (developed by Samanta Montoya Baena)
+  - https://sos2526-15.onrender.com/api/v1/happiness-indices/docs (developed by Javier Arroyo)
 
 
 ## SOS2526-16
