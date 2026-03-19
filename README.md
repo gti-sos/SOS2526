@@ -150,6 +150,8 @@ Lecturers:
   - [http://sos2526-18.onrender.com/api/v1/cereal-productions/docs](http://sos2526-18.onrender.com/api/v1/cereal-productions/docs) (developed by Jose Luis Alcón Del Villar)
    - [https://sos2526-18.onrender.com/api/v1/food-supply-utilization-accounts/docs](https://sos2526-18.onrender.com/api/v1/food-supply-utilization-accounts)(developed by Manuel Castro Sánchez )
   - [https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs](https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs) (developed by Nazaret Villalba Delgado)
+- **APIs_V2:**
+  - [http://sos2526-18.onrender.com/api/v2/cereal-productions/docs](http://sos2526-18.onrender.com/api/v2/cereal-productions/docs) (developed by Jose Luis Alcón Del Villar)
 
 ## SOS2526-19
 
