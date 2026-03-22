@@ -64,12 +64,14 @@ Lecturers:
 - **Live URL**:https://sos2526-13.onrender.com/
 - **APIS**:
 - https://sos2526-13.onrender.com/api/v1/military-stats (developed by Camila España Vildoso)
-- https://sos2526-13.onrender.com/api/v1/conflict-stats (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v2/conflict-stats (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v1/conflict-stats
 - https://sos2526-13.onrender.com/api/v1/exportations-stats (developed by Claudia Páez Sollo)
 
   -**DOCS**
 - https://sos2526-13.onrender.com/api/v1/military-stats/docs (developed by Camila España Vildoso)
-- https://sos2526-13.onrender.com/api/v1/conflict-stats/docs (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v2/conflict-stats/docs (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v1/conflict-stats/docs
 - https://sos2526-13.onrender.com/api/v1/exportations-stats/docs (developed by Claudia Páez Sollo)
 
 
