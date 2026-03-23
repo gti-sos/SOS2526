@@ -104,6 +104,7 @@ Lecturers:
   - https://sos2526-15.onrender.com/api/v1/population-densities/docs (developed by Adrián López Gamboa)
   - https://sos2526-15.onrender.com/api/v1/minimum-interprofessional-wages/docs (developed by Samanta Montoya Baena)
   - https://sos2526-15.onrender.com/api/v1/happiness-indices/docs (developed by Javier Arroyo)
+  - https://sos2526-15.onrender.com/api/v2/happiness-indices/docs (developed by Javier Arroyo Marcos)
 
 
 ## SOS2526-16
