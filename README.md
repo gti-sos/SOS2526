@@ -255,7 +255,7 @@ Lecturers:
 - **APIs**: 
   - https://sos2526-24.onrender.com/api/v1/average-monthly-wages/docs (developed by María Jesús Jiménez-Espada Pallarés)
   - https://sos2526-24.onrender.com/api/v1/international-construccion-costs/docs (developed by Isaac Rodríguez Godino)
-  - https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure/docs (developed by Elena Bejarano Periñán)
+  - https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure/docs https://sos2526-24.onrender.com/api/v2/recreation-culture-expenditure/docs (developed by Elena Bejarano Periñán)
 
 
 ## SOS2526-25
