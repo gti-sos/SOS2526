@@ -18,9 +18,11 @@ Lecturers:
 - **Live URL**: [SOS2526-10](https://sos2526-10.onrender.com/)
 
 - **APIs:**
-  - https://sos2526-10.onrender.com/deaths-by-risk-factors/docs (Developed by Santiago Muñoz)
-  - https://sos2526-10.onrender.com/protests (Developed by Onésimo Morillo)
-  - https://sos2526-10.onrender.com/pandemics (Developed by Alexia Gutiérrez)
+  - https://sos2526-10.onrender.com/api/v1/deaths-by-risk-factors/docs (Developed by Santiago Muñoz)
+  - https://sos2526-10.onrender.com/api/v1/protests/docs (Developed by Onésimo Morillo)
+  - https://sos2526-10.onrender.com/api/v1/pandemics/docs (Developed by Alexia Gutiérrez)
+  - https://sos2526-10.onrender.com/api/v1/child-malnutritions/docs (Developed by Rosmery Marculli)
+
 
 ## SOS2526-11
 
@@ -47,8 +49,8 @@ Lecturers:
 - **Live URL**: https://sos2526-12.onrender.com
 - **APIs**:
   - https://sos2526-12.onrender.com/api/v1/age-specific-fertility-rates/ (developed by Francisco de Paula Mediavilla García)
-  - (developed by Lucca Pereira)
-  - (developed by Javier Jiménez)
+  - https://sos2526-12.onrender.com/api/v1/birth-death-growth-rates/ (developed by Lucca Pereira)
+  - https://sos2526-12.onrender.com/api/v1/mid-population-ages/ (developed by Javier Jiménez)
 
 
 ## SOS2526-13
@@ -60,9 +62,9 @@ Lecturers:
 - **Repository**:[gti-sos/SOS2526-13](https://github.com/gti-sos/SOS2526-13)
 - **Live URL**:https://sos2526-13.onrender.com/
 - **APIS**:
--  Camila España Vildoso - military stats https://sos2526-13.onrender.com/api/v1/military-stats
-- Pablo Moraleda Alvarez https://sos2526-13.onrender.com/api/v1/conflict-stats
-- Claudia Páez Sollo https://sos2526-13.onrender.com/api/v1/exportations-stats
+- https://sos2526-13.onrender.com/api/v1/military-stats/docs (developed by Camila España Vildoso)
+- https://sos2526-13.onrender.com/api/v1/conflict-stats/docs (developed by Pablo Moraleda Álvarez)
+- https://sos2526-13.onrender.com/api/v1/exportations-stats/docs (developed by Claudia Páez Sollo)
 
 
 ## SOS2526-14
@@ -74,10 +76,16 @@ Lecturers:
   - --
 - **Project description**: This project examines the relationship between natural objects entering Earth’s atmosphere and the technological footprint humans send into space. The objective is to compare the historical mass of recovered meteorites against the mass of active satellites and current launch costs. We aim to determine if the human "footprint" in outer space is now outpacing natural phenomena in magnitude, while analyzing the global geographic distribution of these events.
 - **Repository**: [gti-sos/SOS2526-14](https://github.com/gti-sos/SOS2526-14)
-- Live URL: https://sos2526-14.onrender.com/
+- **Live URL**: [SOS2526-10](https://sos2526-14.onrender.com/)
+- **APIs**:
+  - http://sos2526-14.onrender.com/api/v1/active-satellites/docs (developed by Jaime García Algarra)
+  - http://sos2526-14.onrender.com/api/v1/meteorite-landings/docs (developed by Jeremías J. Pluas Charcopa)
+  - https://sos2526-14.onrender.com/api/v1/space-launches/docs (developed by Fernando Reguera Bueno)
 
-APIs:
-- http://sos2526-14.onrender.com/api/v1/active-satellites/docs (developed by Jaime García Algarra)
+- **APIs v2**:
+  - (developed by Jaime García Algarra)
+  - http://sos2526-14.onrender.com/api/v2/meteorite-landings/docs (developed by Jeremías J. Pluas Charcopa)
+  - http://sos2526-14.onrender.com/api/v2/space-launches/docs (developed by Fernando Reguera Bueno)
 
 
 ## SOS2526-15
@@ -89,6 +97,10 @@ APIs:
 - **Project description**: "Our project analyzes the correlation between a country's happiness index and its population density and minimum wage. We study how wages and the possibility of encountering other people, which we measure using density, can affect a nation's happiness. The goal is to understand how happiness varies based on socioeconomic factors and, thanks to this data, nations can establish strategies to improve the happiness of their inhabitants."
 - **Repository**: [gti-sos/SOS2526-15](https://github.com/gti-sos/SOS2526-15)
 - **Live URL**: [SOS2526-15](https://sos2526-15.onrender.com)
+- **APIs:**:
+  - https://sos2526-15.onrender.com/api/v1/population-densities (developed by Adrián López Gamboa)
+  - https://sos2526-15.onrender.com/api/v1/minimum-interprofessional-wages (developed by Samanta Montoya Baena)
+  - https://sos2526-15.onrender.com/api/v1/happiness-indices (developed by Javier Arroyo)
 
 
 ## SOS2526-16
@@ -128,7 +140,8 @@ APIs:
 - **URI**:(https://sos2526-18.onrender.com/)
 - **APIs:**
   - [http://sos2526-18.onrender.com/api/v1/cereal-productions/docs](http://sos2526-18.onrender.com/api/v1/cereal-productions/docs) (developed by Jose Luis Alcón Del Villar)
-
+   - [https://sos2526-18.onrender.com/api/v1/food-supply-utilization-accounts/docs](https://sos2526-18.onrender.com/api/v1/food-supply-utilization-accounts)(developed by Manuel Castro Sánchez )
+  - [https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs](https://sos2526-18.onrender.com/api/v1/cost-of-healthy-diet-by-countries/docs) (developed by Nazaret Villalba Delgado)
 
 ## SOS2526-19
 - **Team**
@@ -137,9 +150,16 @@ APIs:
   - Javier Morales Jiménez (https://github.com/JaviMJ2)
 - **Project description**: Our project analyzes the relationship between the productivity per worker in several countries and data about droughts and earthquakes around these countries.
 - **Repository**: [gti-sos/SOS2526-19](https://github.com/gti-sos/SOS2526-19)
-**URL**
-  Render URL: https://sos2526-19.onrender.com
-**APIs**
+
+- **URL**: https://sos2526-19.onrender.com
+
+- **APIs**
+  - [/about](https://sos2526-19.onrender.com/about)
+
+  - [Pablo](https://sos2526-19.onrender.com/api/v1/drought-stats)
+  - [Raúl](https://sos2526-19.onrender.com/api/v1/workers-productivity)
+  - [Javier](https://sos2526-19.onrender.com/api/v1/earthquakes)
+  
   - https://sos2526-19.onrender.com/api/v1/drought-stats/docs (developed by Pablo Rodríguez Armesto)
   - https://sos2526-19.onrender.com/api/v1/workers-productivity/docs (developed by Raúl de los Reyes Benítez)
   - https://sos2526-19.onrender.com/api/v1/earthquakes/docs (developed by Javier Morales Jiménez)
@@ -156,6 +176,10 @@ APIs:
 - **Repository**: [gti-sos/SOS2526-20](https://github.com/gti-sos/SOS2526-20)
 - **Render URI** [SOS2526-20.onrender.com](https://sos2526-20.onrender.com/)
 - **API**: 
+  - https://sos2526-20.onrender.com/api/v1/wool-stats/docs (developed by Francisco Javier González Macías)
+  - https://sos2526-20.onrender.com/api/v1/spice-stats/docs (developed by Amanda Liu Alcántara Pérez)
+  - https://sos2526-20.onrender.com/api/v1/coffee-stats/docs (developed by Pedro Mata García)
+- **Antiguas versiones**
   - https://sos2526-20.onrender.com/api/v1/wool-stats/docs (developed by Francisco Javier González Macías)
   - https://sos2526-20.onrender.com/api/v1/spice-stats/docs (developed by Amanda Liu Alcántara Pérez)
   - https://sos2526-20.onrender.com/api/v1/coffee-stats/docs (developed by Pedro Mata García)
@@ -185,10 +209,15 @@ APIs:
 - **Project description**: Our sources of information are aimed at analyzing the relationship that exists between the consumption of substances that deplete the ozone layer, the impact of climate change on agriculture and CO2 emissions in the agri-food sector.
 - **Repository**: [gti-sos/SOS2526-22](https://github.com/gti-sos/SOS2526-22)
 - **URL**: [SOS2526-22](https://sos2526-22.onrender.com/)
-- - **APIs**:
+- **APIs**:
     - http://sos2526-22.onrender.com/api/v1/ozone-depleting-substance-consumptions/docs (developed by Nombre Elena Martínez Moreno)
     - http://sos2526-22.onrender.com/api/v1/global-agriculture-climate-impacts/docs (developed by Nombre Celia Leal Salvago)
-    - http://sos2526-22.onrender.com/api/v1/co2-emission-gap-among-countries-clustering-&-pca/docs (developed by Nombre Julio Morales Vela)
+    - http://sos2526-22.onrender.com/api/v1/co2-emission-gap-among-countries-clustering-pca/docs (developed by Nombre Julio Morales Vela)
+      
+
+    - http://sos2526-22.onrender.com/api/v2/co2-emission-gap-among-countries-clustering-pca/docs (developed by Nombre Julio Morales Vela) - **V2**
+    - http://sos2526-22.onrender.com/api/v2/global-agriculture-climate-impacts/docs (developed by Nombre Celia Leal Salvago) - **V2**
+    - http://sos2526-22.onrender.com/api/v2/ozone-depleting-substance-consumptions/docs (developed by Nombre Elena Martínez Moreno) - **V2**
 
 ## SOS2526-23
 
@@ -211,25 +240,36 @@ APIs:
 - **Repository**: [gti-sos/SOS2526-24](https://github.com/gti-sos/SOS2526-24)
 - **Live URL**: https://sos2526-24.onrender.com/
 - **APIs**: 
-  - María Jesús Jiménez-Espada Pallarés (https://sos2526-24.onrender.com/api/v1/average-monthly-wages)
-  - Isaac Rodríguez Godino (https://sos2526-24.onrender.com/api/v1/international-construccion-costs)
-  - Elena Bejarano Periñán ( https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure )
-
+  - https://sos2526-24.onrender.com/api/v1/average-monthly-wages/docs (developed by María Jesús Jiménez-Espada Pallarés)
+  - https://sos2526-24.onrender.com/api/v1/international-construccion-costs/docs (developed by Isaac Rodríguez Godino)
+  - https://sos2526-24.onrender.com/api/v1/recreation-culture-expenditure/docs (developed by Elena Bejarano Periñán)
 
 
 ## SOS2526-25
 
 - **Team**
   - Juan Luis Rodríguez Artiaga (https://github.com/juarodart) API: https://sos2526-25.onrender.com/api/v1/social-drinking-behaviors
-  - Aimar García Borrego (https://github.com/aimargarcia) API: https://sos2526-25.onrender.com/api/v1/arrivals
+  - Aimar García Borrego (https://github.com/aimargarcia) API: https://sos2526-25.onrender.com/api/v1/international-tourist-arrivals
   - Pablo Seco Amores (https://github.com/CJY2851) API: https://sos2526-25.onrender.com/api/v1/average-annual-temperatures 
 - **Project description**: Our proyeect is going to be an analyze about the consum of alcohol in different countries, the temperatures and the tourism.
 - **Repository**: [gti-sos/SOS2526-25](https://github.com/gti-sos/SOS2526-25)
+- **Live URL**: https://sos2526-25.onrender.com/
+# SOS2526-25
+
+
+- **Team**
+  - Juan Luis Rodríguez Artiaga (https://github.com/juarodart) API: https://sos2526-25.onrender.com/api/v1/social-drinking-behaviors
+  - Aimar García Borrego (https://github.com/aimargarcia) API: https://sos2526-25.onrender.com/api/v1/international-tourist-arrivals
+  - Pablo Seco Amores (https://github.com/CJY2851) API: https://sos2526-25.onrender.com/api/v1/average-annual-temperatures 
+- **Project description**: Our proyeect is going to be an analyze about the consum of alcohol in different countries, the temperatures and the tourism
+- **Repository**: [gti-sos/SOS2526-25](https://github.com/gti-sos/SOS2526-25)
 - **Render**: https://sos2526-25.onrender.com/
-- **APIs**:
-    http://sos2526-XX.onrender.com/api/v1/social-drinking-behaviors/docs (developed by Juan Luis Rodríguez Artiaga)
-    http://sos2526-XX.onrender.com/api/v1/average-annual-temperatures/docs (developed by Pablo Seco Amores)
-    http://sos2526-XX.onrender.com/api/v1/arrivals/docs (developed by Aimar García Borrego)
+- **APIs**: <br>
+    - http://sos2526-25.onrender.com/api/v1/social-drinking-behaviors/docs (developed by Juan Luis Rodríguez Artiaga) <br>
+    - http://sos2526-25.onrender.com/api/v1/average-annual-temperatures/docs (developed by Pablo Seco Amores) <br>
+    - http://sos2526-25.onrender.com/api/v1/arrivals/docs (developed by Aimar García Borrego) <br>
+
+
 
 
 
@@ -244,9 +284,9 @@ APIs:
 - **Repository**: [gti-sos/SOS2526-26](https://github.com/gti-sos/SOS2526-26)
 - **Live URL**: https://sos2526-26.onrender.com/
 - **APIs**: 
-  - Moises Guillermo Godoy Nava (https://sos2526-26.onrender.com/api/v1/national-team-rankings-per-years)
-  - Sergio Díaz Vazquez (https://sos2526-26.onrender.com/api/v1/countries-idh-per-years)
-  - Ricardo Fernandez ( https://sos2526-26.onrender.com/api/v1/fifa-squad-value-per-years )
+  - Moises Guillermo Godoy Nava (https://sos2526-26.onrender.com/api/v1/national-team-rankings-per-years/docs)
+  - Sergio Díaz Vazquez (https://sos2526-26.onrender.com/api/v1/countries-idh-per-years/docs)
+  - Ricardo Fernandez ( https://sos2526-26.onrender.com/api/v1/fifa-squad-value-per-years/docs)
 
 
 ## SOS2526-27
